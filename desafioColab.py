@@ -32,4 +32,4 @@ elif pontos <= 4 :
 elif pontos == 5 :
     print('ASSASSINO, VOCÊ ESTÁ PRESO.')
 
-# professor, eu gostei muito de fazer esse desafio. obrigada pelas suas aulas.
+# professor, eu gostei muito de fazer esse desafio. obrigada pelas aulas.

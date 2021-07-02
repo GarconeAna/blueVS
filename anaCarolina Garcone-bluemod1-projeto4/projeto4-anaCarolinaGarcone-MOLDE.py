@@ -1,7 +1,7 @@
 # Proposta de projeto de ficção interativa para avaliação de OO
 # Sugestão: completar com classes filhas colocando pessoas saudáveis, trabalhos menos remunerados, casas melhor equipadas et cetera
 
-#MOLDE do projeto 4 - partindo dele fazer o nosso
+#MOLDE do projeto 4 - 
 
 class Relogio:
     def __init__(self):
